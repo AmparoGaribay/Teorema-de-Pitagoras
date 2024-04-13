@@ -1,0 +1,12 @@
+C:\Users\AMPARO\source\repos\TeoremaDe pitagoras\TeoremaDe pitagoras\bin\Debug\TeoremaDe pitagoras.exe.config
+C:\Users\AMPARO\source\repos\TeoremaDe pitagoras\TeoremaDe pitagoras\bin\Debug\TeoremaDe pitagoras.exe
+C:\Users\AMPARO\source\repos\TeoremaDe pitagoras\TeoremaDe pitagoras\bin\Debug\TeoremaDe pitagoras.pdb
+C:\Users\AMPARO\source\repos\TeoremaDe pitagoras\TeoremaDe pitagoras\obj\Debug\TeoremaDe pitagoras.csprojAssemblyReference.cache
+C:\Users\AMPARO\source\repos\TeoremaDe pitagoras\TeoremaDe pitagoras\obj\Debug\TeoremaDe_pitagoras.Form1.resources
+C:\Users\AMPARO\source\repos\TeoremaDe pitagoras\TeoremaDe pitagoras\obj\Debug\TeoremaDe_pitagoras.Properties.Resources.resources
+C:\Users\AMPARO\source\repos\TeoremaDe pitagoras\TeoremaDe pitagoras\obj\Debug\TeoremaDe pitagoras.csproj.GenerateResource.cache
+C:\Users\AMPARO\source\repos\TeoremaDe pitagoras\TeoremaDe pitagoras\obj\Debug\TeoremaDe pitagoras.csproj.CoreCompileInputs.cache
+C:\Users\AMPARO\source\repos\TeoremaDe pitagoras\TeoremaDe pitagoras\obj\Debug\TeoremaDe pitagoras.exe
+C:\Users\AMPARO\source\repos\TeoremaDe pitagoras\TeoremaDe pitagoras\obj\Debug\TeoremaDe pitagoras.pdb
+C:\Users\AMPARO\source\repos\TeoremaDe pitagoras\TeoremaDe pitagoras\obj\Debug\TeoremaDe_pitagoras.splashTeorema.resources
+C:\Users\AMPARO\source\repos\TeoremaDe pitagoras\TeoremaDe pitagoras\obj\Debug\TeoremaDe_pitagoras.operacionesPitagoras.resources
